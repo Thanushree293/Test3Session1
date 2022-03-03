@@ -1,1 +1,10 @@
 
+gcc -g p1original.c
+ ./a.out
+enter four no.
+1
+2
+14
+2
+sum of fractions of 1/2 ,14/2 is 30/4 
+
